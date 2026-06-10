@@ -502,7 +502,7 @@ int main(){
     cargarUsuarios();
     cargarProductos();
     cargarComentarios();
-    cargarCarrito(); // ← carga el carrito guardado al iniciar
+    cargarCarrito();
 
     int pos=login();
     if(pos!=-1){

@@ -1,0 +1,47 @@
+========================================
+           ORDEN DE COMPRA              
+========================================
+ID de orden: 3
+Usuario: Ana Gómez (ana.gomez@email.com)
+Direccion de envio: Calle 21 #35-50
+Metodo de pago:  PayPal
+----------------------------------------
+Los productos son: 
+- Auriculares ($129.99)
+- Auriculares ($129.99)
+- Auriculares ($129.99)
+- Auriculares ($129.99)
+- Auriculares ($129.99)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Smartphone ($499.5)
+- Drone ($699.99)
+- Cafetera ($149.99)
+- Drone ($699.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+- Impresora ($179.99)
+----------------------------------------
+Subtotal: $9714.78
+Impuestos (19% IVA): $1845.81
+Envio fijo: $20000
+Su total es: $31560.6
+========================================
